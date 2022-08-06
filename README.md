@@ -1,1 +1,1 @@
-# shopping-cart-ts
+# Advanced Shopping Cart With React and TypeScript
